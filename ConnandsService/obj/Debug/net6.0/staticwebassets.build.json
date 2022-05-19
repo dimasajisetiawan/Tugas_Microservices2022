@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ev5VhgRVPOnqmlkTFqEZRqfCM8CPcpHEy9svFPeZIhI=",
+  "Source": "ConnandsService",
+  "BasePath": "_content/ConnandsService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

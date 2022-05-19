@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fbrP/8Ctv1YBaiguQFUixxW1TTlac1Qjh+2etDU362GxKE6uwPF04V9BSK/xpJtm2yJh+EjNYVVgb5kKmEs9wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Makeroot\\Desktop\\microserpis\\New folder\\Microservices2022\\ConnandsService\\ConnandsService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Makeroot\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Makeroot\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Makeroot\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Makeroot\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Makeroot\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Makeroot\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
