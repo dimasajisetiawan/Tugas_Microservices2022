@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Makeroot\\Desktop\\microserpis\\New folder\\Microservices2022\\ConnandsService\\ConnandsService.csproj",
-      "projectName": "ConnandsService",
-      "projectPath": "C:\\Users\\Makeroot\\Desktop\\microserpis\\New folder\\Microservices2022\\ConnandsService\\ConnandsService.csproj",
+      "projectUniqueName": "C:\\Users\\Makeroot\\Desktop\\microserpis\\New folder\\Microservices2022\\commandsservice\\CommandsService.csproj",
+      "projectName": "CommandsService",
+      "projectPath": "C:\\Users\\Makeroot\\Desktop\\microserpis\\New folder\\Microservices2022\\commandsservice\\CommandsService.csproj",
       "packagesPath": "C:\\Users\\Makeroot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Makeroot\\Desktop\\microserpis\\New folder\\Microservices2022\\ConnandsService\\obj\\",
+      "outputPath": "C:\\Users\\Makeroot\\Desktop\\microserpis\\New folder\\Microservices2022\\commandsservice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Makeroot\\AppData\\Roaming\\NuGet\\NuGet.Config",

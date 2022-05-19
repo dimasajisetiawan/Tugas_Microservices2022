@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "Ev5VhgRVPOnqmlkTFqEZRqfCM8CPcpHEy9svFPeZIhI=",
-  "Source": "ConnandsService",
-  "BasePath": "_content/ConnandsService",
+  "Hash": "iEtQpyoewyZOPA7kx9aqj/dZdApTkpaPzpP6nNufyd4=",
+  "Source": "CommandsService",
+  "BasePath": "_content/CommandsService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
